@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Offline Llama</string>
+    <string name="load_model">Selecionar modelo</string>
+    <string name="model_not_selected">Nenhum modelo selecionado</string>
+    <string name="model_loading">Copiando modelo para uso offline…</string>
+    <string name="model_loaded">Modelo carregado e pronto para responder.</string>
+    <string name="prompt_hint">Digite sua pergunta</string>
+    <string name="send">Enviar</string>
+    <string name="placeholder_reply">Carregue um modelo GGUF para gerar respostas offline.</string>
+    <string name="load_model_description">Selecione o arquivo \"Meta-Llama-3-8B-Instruct-bf16-correct-pre-tokenizer-and-EOS-token-Q4_K_M.gguf\" para uso offline.</string>
+    <string name="chat_header">Assistente Llama offline</string>
+    <string name="model_path_prefix">Modelo:</string>
+</resources>
